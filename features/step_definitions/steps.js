@@ -1,4 +1,4 @@
-const { Given, When, Then } = require('cucumber')
+const { Given, When, Then } = require('@cucumber/cucumber')
 
 import Home from '../pages/Home'
 import Login from '../pages/Login'
